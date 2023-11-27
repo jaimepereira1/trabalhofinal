@@ -19,10 +19,15 @@ em strong{
 .itens {
     font-style:italic
 }
-
-    h2 }
+ h2 {
     text-aling: center;
 }
 ul {
-    displey: inline-block;
+    display: inline-block;
+    vertical-align: top;
+    width::20%;
+    margin-right: 15%;
+}
+.agricultura {
+    width: 50%;
 }
